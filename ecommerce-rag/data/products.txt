@@ -1,0 +1,89 @@
+DOCUMENT: PRODUCT CATALOG
+DOCUMENT_ID: PROD-2026
+LAST_UPDATED: September 2026
+
+==================================================
+SECTION 1 — AEROSOUND X1 WIRELESS HEADPHONES
+PRODUCT_ID: ASX1
+==================================================
+
+Product Name: AeroSound X1 Wireless Headphones
+
+Price: ₹3,999
+
+Description:
+AeroSound X1 is a wireless over-ear headphone designed for
+daily listening, travel, online meetings, and entertainment.
+
+Specifications:
+- Battery life: Up to 30 hours
+- Charging port: USB-C
+- Bluetooth: Version 5.3
+- Noise cancellation: Active Noise Cancellation (ANC)
+- Microphone: Built-in dual microphone
+- Weight: 245 grams
+- Available colors: Black, Silver
+
+Warranty:
+AeroSound X1 comes with a 1-year manufacturer warranty.
+
+Returns:
+The product can be returned within 15 days of delivery,
+subject to the company's return policy.
+
+==================================================
+SECTION 2 — AEROBOOK LITE LAPTOP
+PRODUCT_ID: ABL1
+==================================================
+
+Product Name: AeroBook Lite Laptop
+
+Price: ₹54,999
+
+Description:
+AeroBook Lite is a general-purpose laptop designed for
+students, professionals, programming, office work, and
+everyday productivity.
+
+Specifications:
+- Processor: Intel Core i5
+- RAM: 16 GB
+- Storage: 512 GB SSD
+- Display: 15.6-inch Full HD
+- Battery: Up to 9 hours
+- Operating system: Windows 11
+- Weight: 1.7 kg
+
+Warranty:
+AeroBook Lite comes with a 1-year manufacturer warranty.
+
+Returns:
+The product can be returned within 15 days of delivery,
+subject to the company's return policy.
+
+==================================================
+SECTION 3 — AEROMOUSE PRO
+PRODUCT_ID: AMP1
+==================================================
+
+Product Name: AeroMouse Pro
+
+Price: ₹1,499
+
+Description:
+AeroMouse Pro is a wireless mouse designed for laptops,
+desktop computers, and office environments.
+
+Specifications:
+- Connection: Bluetooth and 2.4 GHz wireless
+- Battery life: Up to 12 months
+- DPI: Adjustable up to 3200 DPI
+- Buttons: 6 programmable buttons
+- Compatibility: Windows, macOS, and Linux
+
+Warranty:
+AeroMouse Pro comes with a 1-year manufacturer warranty.
+
+Returns:
+The product can be returned within 15 days of delivery,
+subject to the company's return policy.

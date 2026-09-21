@@ -1,0 +1,62 @@
+DOCUMENT: SHIPPING POLICY
+DOCUMENT_ID: SHIP-2026
+LAST_UPDATED: September 2026
+
+==================================================
+SECTION 1 — STANDARD DELIVERY
+==================================================
+
+Standard delivery usually takes 3–5 business days.
+
+Delivery time is calculated from the date the order is
+dispatched, not from the date the order is placed.
+
+==================================================
+SECTION 2 — EXPRESS DELIVERY
+==================================================
+
+Express delivery usually takes 1–2 business days.
+
+Express delivery costs ₹199 per order.
+
+Express delivery is available only for eligible
+PIN codes.
+
+==================================================
+SECTION 3 — FREE SHIPPING
+==================================================
+
+Orders above ₹2,000 qualify for free standard shipping.
+
+Express delivery charges are not waived by the free
+shipping policy.
+
+==================================================
+SECTION 4 — ORDER PROCESSING
+==================================================
+
+Orders are normally dispatched within 24 hours after
+payment confirmation.
+
+Orders placed during major sales may require additional
+processing time.
+
+==================================================
+SECTION 5 — DELIVERY DELAYS
+==================================================
+
+Delivery times may be longer during major sales, public
+holidays, severe weather, or unexpected courier delays.
+
+The estimated delivery date shown during checkout is
+not a guaranteed delivery date.
+
+==================================================
+SECTION 6 — ORDER TRACKING
+==================================================
+
+Customers receive a tracking link after the order has
+been dispatched.
+
+The tracking link can be used to view the latest courier
+status of the shipment.

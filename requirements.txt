@@ -1,0 +1,8 @@
+openai
+python-dotenv
+pinecone
+langchain-core
+langchain-text-splitters
+sentence-transformers
+scikit-learn
+numpy
