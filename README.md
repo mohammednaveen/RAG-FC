@@ -22,7 +22,7 @@ A practical introduction to **Retrieval-Augmented Generation (RAG)**, starting w
 Clone the repository and enter the project directory:
 
 ```bash
-git clone [https://github.com/mohammednaveen/RAG-FC.git](https://github.com/mohammednaveen/RAG-FC.git)
+git clone https://github.com/mohammednaveen/RAG-FC
 cd RAG-FC
 ```
 
