@@ -102,6 +102,7 @@ Python 3.11.x
 Make sure the virtual environment is activated, then install all required packages:
 
 ```bash
+cd RAG-FC
 pip install -r requirements.txt
 ```
 
